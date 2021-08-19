@@ -1,9 +1,6 @@
 # TOPs-stacker
 TouchDesigner component, which allows to align multiple inputs linearly (vertically and horizontally)
-
-
 ![TOPs_stacker_example_out](Assets/TOPs_stacker_example_out.png)
-
 There are such parameters as:
 
 * Number of inputs
