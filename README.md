@@ -4,7 +4,7 @@ TouchDesigner component, which allows to align multiple inputs linearly (vertica
 # Overview
 ![TOPs_stacker_example_out](Assets/TOPs_stacker_example_out.png)
 
-#Parameters
+# Parameters
 
 * **Number of inputs** - (int) The number of COMP inputs
 * **Axis** - (Menu) Selection horizontal / vertical combination
