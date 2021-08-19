@@ -1,6 +1,9 @@
 # TOPs-stacker
 TouchDesigner component, which allows to align multiple inputs linearly (vertically and horizontally)
 
+* CPU version uses more CPU resources
+* GPU version uses more GPU resources
+
 # Overview
 ![TOPs_stacker_example_out](Assets/TOPs_stacker_example_out.png)
 
@@ -13,9 +16,6 @@ TouchDesigner component, which allows to align multiple inputs linearly (vertica
 * **Also, each input can be separately stretched to the full width/height**
 
 ![TOPs_stacker_example](Assets/TOPs_stacker_example.png)
-
-* CPU version uses more CPU resources
-* GPU version uses more GPU resources
 
 # Notes
 
