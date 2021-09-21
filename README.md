@@ -3,6 +3,7 @@ TouchDesigner component, which allows to align multiple inputs linearly (vertica
 
 * CPU version uses more CPU resources
 * GPU version uses more GPU resources
+* GLSL version is prefered
 
 # Overview
 ![TOPs_stacker_example_out](Assets/TOPs_stacker_example_out.png)
